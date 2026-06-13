@@ -12,7 +12,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "api/main.py"
+      "destination": "api/image.py"
     }
   ]
 }
